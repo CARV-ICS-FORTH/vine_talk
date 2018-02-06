@@ -1,0 +1,26 @@
+var trace_8h =
+[
+    [ "trace_exit", "trace_8h.html#a411436172c8bf65344db9627be065515", null ],
+    [ "trace_init", "trace_8h.html#aace89cb2548b573a49d193afe697499a", null ],
+    [ "trace_timer_start", "trace_8h.html#a80df87f267d38e4dbc69cb579efa3b61", null ],
+    [ "trace_timer_stop", "trace_8h.html#aa3c18591419aa06f20fe2f2970ac17ac", null ],
+    [ "trace_vine_accel_acquire_phys", "trace_8h.html#a05caee0e32f8e79ca91c3b803e5197c4", null ],
+    [ "trace_vine_accel_acquire_type", "trace_8h.html#aca4499e261254d3eef9c18abeddcf552", null ],
+    [ "trace_vine_accel_list", "trace_8h.html#ac0e3e7a388644a402786aca47a2bd3c3", null ],
+    [ "trace_vine_accel_location", "trace_8h.html#a46cdd3b1ff95db5e326924f574a67635", null ],
+    [ "trace_vine_accel_release", "trace_8h.html#a6317d6daf63b226ca02414e0b7d77f54", null ],
+    [ "trace_vine_accel_stat", "trace_8h.html#aa71d124f46ede5bad20f9c9b10cee928", null ],
+    [ "trace_vine_accel_type", "trace_8h.html#a9d034f2a519609544fe01bf4bd4531db", null ],
+    [ "trace_vine_data_alloc", "trace_8h.html#ac29c97edf53d5a0063348e4f76750cb4", null ],
+    [ "trace_vine_data_deref", "trace_8h.html#a2786b31f01f7cf7acb91af9de8ad9f07", null ],
+    [ "trace_vine_data_free", "trace_8h.html#ac3f6bba51e9498d440e6cb7d83a30d5a", null ],
+    [ "trace_vine_data_mark_ready", "trace_8h.html#aef9f09728033119124dab15eba7352fc", null ],
+    [ "trace_vine_proc_get", "trace_8h.html#a4f6cd11e6eb93a11046c6d35b01da853", null ],
+    [ "trace_vine_proc_put", "trace_8h.html#a94a1c729a82b2bfd67042637353774e2", null ],
+    [ "trace_vine_proc_register", "trace_8h.html#ade6dc0783a9a73f256dc55e1ac26a3e0", null ],
+    [ "trace_vine_task_free", "trace_8h.html#a07fa7e74785936bb3149e72ce2bd5284", null ],
+    [ "trace_vine_task_issue", "trace_8h.html#a2a60096eed80de4a8f801edd793413a6", null ],
+    [ "trace_vine_task_stat", "trace_8h.html#a4a5d7913b1304407f6e9b229755d9162", null ],
+    [ "trace_vine_task_wait", "trace_8h.html#af1b36f8fdf0d7b3859aad2cb2cb77c45", null ],
+    [ "TRACER_TIMER", "trace_8h.html#a74f6409a44ecf9a9b38ff5d3f3f07235", null ]
+];
