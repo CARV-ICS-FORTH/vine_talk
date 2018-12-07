@@ -38,7 +38,7 @@ var searchData=
   ['signum',['signum',['../structSigRemap.html#af063222f46f5e774717f2f0a077302af',1,'SigRemap']]],
   ['sigremap',['SigRemap',['../structSigRemap.html',1,'']]],
   ['six_5fsize_5ft_5fsizes',['SIX_SIZE_T_SIZES',['../malloc_8c.html#ae711f3f963dc01f816b155795e4a7729',1,'malloc.c']]],
-  ['size',['size',['../structmalloc__segment.html#a854352f53b148adc24983a58a1866d66',1,'malloc_segment::size()'],['../structvine__data__s.html#a854352f53b148adc24983a58a1866d66',1,'vine_data_s::size()'],['../structallocation.html#a854352f53b148adc24983a58a1866d66',1,'allocation::size()']]],
+  ['size',['size',['../structmalloc__segment.html#a854352f53b148adc24983a58a1866d66',1,'malloc_segment::size()'],['../structvine__data__s.html#a854352f53b148adc24983a58a1866d66',1,'vine_data_s::size()'],['../structallocation.html#a854352f53b148adc24983a58a1866d66',1,'allocation::size()'],['../structMetrics.html#a854352f53b148adc24983a58a1866d66',1,'Metrics::size()']]],
   ['size_5ft_5fbitsize',['SIZE_T_BITSIZE',['../malloc_8c.html#a9d769150c841cbb7512476c56aaf5617',1,'malloc.c']]],
   ['size_5ft_5ffour',['SIZE_T_FOUR',['../malloc_8c.html#a9233a87a400d8aaae1b22d1e3cdc42d8',1,'malloc.c']]],
   ['size_5ft_5fone',['SIZE_T_ONE',['../malloc_8c.html#a1a115588725fa912f1bcaca9f08fb658',1,'malloc.c']]],

@@ -2,6 +2,7 @@ var searchData=
 [
   ['last_5fuid',['last_uid',['../structvine__pipe.html#a6b050cc9159448300fecb32e96fcd5a6',1,'vine_pipe']]],
   ['latex',['latex',['../namespacebreaker.html#a913b461ba5a7996726e2f0633d12c843',1,'breaker']]],
+  ['leaks',['leaks',['../structMetrics.html#aaadecaaadfa6cd3fcbbfad768ddc3d90',1,'Metrics']]],
   ['least_5faddr',['least_addr',['../structmalloc__state.html#af46a51a6744c1ae0e650d247f5aab215',1,'malloc_state']]],
   ['least_5fbit',['least_bit',['../malloc_8c.html#a63b9c45d67753a9da2be543ca879c261',1,'malloc.c']]],
   ['left_5fbits',['left_bits',['../malloc_8c.html#a24d6f7ffb2d8e91878f8b6c06b803c5e',1,'malloc.c']]],

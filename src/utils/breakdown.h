@@ -23,8 +23,8 @@
 #ifndef UTILS_BREAKDOWN_HEADER
 #define UTILS_BREAKDOWN_HEADER
 #include "conf.h"
-#ifdef BREAKS_ENABLE
 #include "timer.h"
+#ifdef BREAKS_ENABLE
 /**
  * Number of max parts allowed in a single breakdown.
  */

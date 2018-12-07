@@ -19,6 +19,7 @@ var searchData=
   ['use_5fnoncontiguous_5fbit',['USE_NONCONTIGUOUS_BIT',['../malloc_8c.html#ac7f41c328146bb45481fe3e0c20787d4',1,'malloc.c']]],
   ['use_5fspin_5flocks',['USE_SPIN_LOCKS',['../malloc_8c.html#a2272cf5f1db0ea5dd0e89d1a3c5028f0',1,'USE_SPIN_LOCKS():&#160;malloc.c'],['../shm_2alloc_8c.html#a2272cf5f1db0ea5dd0e89d1a3c5028f0',1,'USE_SPIN_LOCKS():&#160;alloc.c']]],
   ['used_5fbytes',['used_bytes',['../structarch__alloc__stats__s.html#a5931414ae1520521e029e466278fb642',1,'arch_alloc_stats_s']]],
+  ['usedslots',['usedSlots',['../structvine__task__stats.html#a26fc7b0bc5221b488fe719309fdac69b',1,'vine_task_stats']]],
   ['user_5fbuffer',['user_buffer',['../classVinetalk_1_1VineBuffer.html#a2eff08a3b3d339b12b4407342b4c68a8',1,'Vinetalk.VineBuffer.user_buffer()'],['../structvine__buffer__s.html#a405e9ad24acd4d0a7d1952d1b267ef19',1,'vine_buffer_s::user_buffer()']]],
   ['user_5fbuffer_5fsize',['user_buffer_size',['../classVinetalk_1_1VineBuffer.html#a07a96773a5afd0f76b3493a024f87fb4',1,'Vinetalk.VineBuffer.user_buffer_size()'],['../structvine__buffer__s.html#a82b4e48c812b88a0a3d6c2fdeedae61f',1,'vine_buffer_s::user_buffer_size()']]],
   ['users',['users',['../structvine__proc__s.html#ac2aec85ac9216c43dbae2d7550741607',1,'vine_proc_s']]],

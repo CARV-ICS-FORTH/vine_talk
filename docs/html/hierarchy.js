@@ -24,6 +24,7 @@ var hierarchy =
     [ "malloc_segment", "structmalloc__segment.html", null ],
     [ "malloc_state", "structmalloc__state.html", null ],
     [ "malloc_tree_chunk", "structmalloc__tree__chunk.html", null ],
+    [ "Metrics", "structMetrics.html", null ],
     [ "Mon", "structMon.html", null ],
     [ "Pallete", "classPallete.html", null ],
     [ "PARTITION", "structPARTITION.html", null ],

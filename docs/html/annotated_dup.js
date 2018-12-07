@@ -19,6 +19,7 @@ var annotated_dup =
     [ "malloc_segment", "structmalloc__segment.html", "structmalloc__segment" ],
     [ "malloc_state", "structmalloc__state.html", "structmalloc__state" ],
     [ "malloc_tree_chunk", "structmalloc__tree__chunk.html", "structmalloc__tree__chunk" ],
+    [ "Metrics", "structMetrics.html", "structMetrics" ],
     [ "Mon", "structMon.html", "structMon" ],
     [ "Pallete", "classPallete.html", "classPallete" ],
     [ "PARTITION", "structPARTITION.html", "structPARTITION" ],

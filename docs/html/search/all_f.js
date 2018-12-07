@@ -9,6 +9,7 @@ var searchData=
   ['ok_5fnext',['ok_next',['../malloc_8c.html#a57b2c8e49aeb87c3cb1922648ef9ad3c',1,'malloc.c']]],
   ['ok_5fpinuse',['ok_pinuse',['../malloc_8c.html#aded4345a9d79e45d438506d86f550cd6',1,'malloc.c']]],
   ['only_5fmspaces',['ONLY_MSPACES',['../malloc_8c.html#aeb595638a14befbd356f77f8ec2a5c0d',1,'ONLY_MSPACES():&#160;malloc.c'],['../malloc_8h.html#aeb595638a14befbd356f77f8ec2a5c0d',1,'ONLY_MSPACES():&#160;malloc.h'],['../shm_2alloc_8c.html#aeb595638a14befbd356f77f8ec2a5c0d',1,'ONLY_MSPACES():&#160;alloc.c']]],
+  ['open_5fcl',['OPEN_CL',['../vine__talk__types_8h.html#ae1360554e303883862a00382e62a6ecda37bf78d5a1906385034f1cac35972c64',1,'vine_talk_types.h']]],
   ['operator_3c_3c',['operator&lt;&lt;',['../WebUI_8cpp.html#a31d2aef13982a786e30cf6b4bc0db74a',1,'WebUI.cpp']]],
   ['operator_5b_5d',['operator[]',['../classSample.html#afbe60048a9e164657d1c5eb62614cdcf',1,'Sample']]],
   ['ordblks',['ordblks',['../structmallinfo.html#a149e2e324e9f2cb71db5e9c4d382a67f',1,'mallinfo']]],

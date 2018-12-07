@@ -31,6 +31,7 @@ var vine__talk__types_8h =
       [ "SDA", "vine__talk__types_8h.html#ae1360554e303883862a00382e62a6ecdae21c602fb61dc58e4fa361382cb31403", null ],
       [ "NANO_ARM", "vine__talk__types_8h.html#ae1360554e303883862a00382e62a6ecda7e7d12b64ac228ea5e49fdaa2676fc06", null ],
       [ "NANO_CORE", "vine__talk__types_8h.html#ae1360554e303883862a00382e62a6ecdae0c9e1cc9180aaec2e98578ea88e1bfb", null ],
+      [ "OPEN_CL", "vine__talk__types_8h.html#ae1360554e303883862a00382e62a6ecda37bf78d5a1906385034f1cac35972c64", null ],
       [ "VINE_ACCEL_TYPES", "vine__talk__types_8h.html#ae1360554e303883862a00382e62a6ecda714ea7ec37b9722a15013028878763b8", null ]
     ] ],
     [ "vine_task_state_e", "vine__talk__types_8h.html#a02c29f7677bfa284efb20ffaa5c74a7a", [

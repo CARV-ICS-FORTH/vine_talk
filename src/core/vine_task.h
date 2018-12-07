@@ -25,6 +25,7 @@
 #include "core/vine_object.h"
 #include "core/vine_proc.h"
 #include "core/vine_buffer.h"
+#include "utils/queue.h"
 
 /**
  * Vineyard Task message.
@@ -50,6 +51,13 @@ extern "C" {
 #endif /* ifdef __cplusplus */
 
 	vine_task_msg_s * vine_task_alloc(vine_pipe_s *vpipe,int ins,int outs);
+
+	/**
+	 * Create a duplicate of the \c src task.
+	 */
+	vine_task_msg_s * vine_task_dup(vine_pipe_s *vpipe,vine_task_msg_s * src);
+
+	void vine_task_enqueue(vine_pipe_s *vpipe,vine_accel * accel,vine_task_msg_s * task);
 
 #ifdef __cplusplus
 }

@@ -85,7 +85,10 @@ typedef enum vine_task_state_e {
  */
 typedef struct vine_task_stats {
 	int task_id; /**< Unique among tasks of this instance */
+	utils_timer_s task_duration_without_issue;
 	utils_timer_s task_duration;
+	size_t usedSlots;
+
 } vine_task_stats_s;
 
 /**
@@ -100,6 +103,7 @@ typedef enum vine_accel_type {
 	SDA       = 4,   /**< Xilinx SDAaccel                      */
 	NANO_ARM  = 5,   /**< ARM accelerator core from NanoStream */
 	NANO_CORE = 6,   /**< NanoStreams FPGA accelerator         */
+	OPEN_CL   = 7,   /**< OpenCL devices                       */
 	VINE_ACCEL_TYPES /** End Marker                            */
 } vine_accel_type_e;
 

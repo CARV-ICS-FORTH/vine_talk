@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
 Created-By: 1.8.0_102 (Oracle Corporation)
-Class-Path: jna.jar
+Class-Path: jna.jar jna-platform-4.2.2.jar
 
