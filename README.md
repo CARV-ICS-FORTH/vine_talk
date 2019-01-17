@@ -129,6 +129,12 @@ architecture specific options.
 These configuration options are stored at ~/.vinetalk and follow the format
 specified in utils/config.h.
 
+This is a minimum working configuration:
+
+```
+shm_file vine_talk
+```
+
 The sections bellow specify the required keys for each supported vinetalk
 architecture:
 
