@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['save',['SAVE',['../namespacebreaker.html#a7f9c13d28244e077264db2723abdc18d',1,'breaker']]],
+  ['seg',['seg',['../structmalloc__state.html#ac3d059568e5fdb458026c9116d593ba7',1,'malloc_state']]],
+  ['self',['self',['../structvine__pipe.html#add843125b63b1afec9686fbaa3deb708',1,'vine_pipe']]],
+  ['sem',['sem',['../structasync__semaphore__s.html#a57e5f989454185402d689672f370a749',1,'async_semaphore_s']]],
+  ['semaphore',['semaphore',['../structasync__condition__s.html#a732830f0357a2ac025e7b5e04b2886a1',1,'async_condition_s']]],
+  ['sflags',['sflags',['../structmalloc__segment.html#a9b646ca2cdec5a027aaab2177712760f',1,'malloc_segment']]],
+  ['sha',['sha',['../structvine__pipe.html#a53a3228d743ac20ce1ea2bf3c25a38c1',1,'vine_pipe']]],
+  ['shm_5ffile',['shm_file',['../src_2arch_2shm_2vine__talk_8c.html#a1efb21672d3d03723a3438c024c7e9b8',1,'vine_talk.c']]],
+  ['shm_5fsize',['shm_size',['../structvine__pipe.html#a28948fedd958f16682e8465a585f5df5',1,'vine_pipe']]],
+  ['sig_5fremap',['sig_remap',['../btgen_8c.html#a618086f8b899cb25d68fbda5c425f082',1,'btgen.c']]],
+  ['signum',['signum',['../structSigRemap.html#af063222f46f5e774717f2f0a077302af',1,'SigRemap']]],
+  ['size',['size',['../structmalloc__segment.html#a854352f53b148adc24983a58a1866d66',1,'malloc_segment::size()'],['../structvine__data__s.html#a854352f53b148adc24983a58a1866d66',1,'vine_data_s::size()'],['../structallocation.html#a854352f53b148adc24983a58a1866d66',1,'allocation::size()'],['../structMetrics.html#a854352f53b148adc24983a58a1866d66',1,'Metrics::size()']]],
+  ['smallbins',['smallbins',['../structmalloc__state.html#ae965c680228aa17ecacec0a42161a896',1,'malloc_state']]],
+  ['smallmap',['smallmap',['../structmalloc__state.html#ab56163a714e0775cc6fad5ad6fe1cafd',1,'malloc_state']]],
+  ['smblks',['smblks',['../structmallinfo.html#a3e7598cedb4cf3db48ac2dbdaedba8c3',1,'mallinfo']]],
+  ['start',['start',['../structutils__timer__s.html#a87659dd781b771019d5936762c0e3604',1,'utils_timer_s::start()'],['../structallocation.html#a52a8a99bfbb1c17e94e3a9f816d8f5ee',1,'allocation::start()']]],
+  ['stat',['stat',['../namespacebreaker.html#ac9be3ea69ffe4fb1b29dee4ccfaf0ac9',1,'breaker']]],
+  ['state',['state',['../structvine__accel__s.html#a67e5c237697cb9afaf0b08219b3e412a',1,'vine_accel_s::state()'],['../structvine__task__msg.html#a375f7db50ae12cdc84edc8755a77c09a',1,'vine_task_msg::state()']]],
+  ['stats',['stats',['../structvine__accel__s.html#a3a8e91486b2db737b07c104b4a00535c',1,'vine_accel_s::stats()'],['../structvine__task__msg.html#a7612661c42b7ba9bc65dff8a1b35b5bc',1,'vine_task_msg::stats()'],['../namespacebreaker.html#ad5d1c05d28c91109422580ea1bf368f4',1,'breaker.stats()']]],
+  ['stop',['stop',['../structutils__timer__s.html#a0e0b9ddde38b77f2b739eeffac21104e',1,'utils_timer_s']]],
+  ['str',['str',['../structvine__accel__type__map.html#af25d6dc49269fa2003ac7c7fa6f13915',1,'vine_accel_type_map']]],
+  ['synchro',['synchro',['../alloc__perf_8c.html#a8225f160aecfab1365666fd07d1af31c',1,'alloc_perf.c']]]
+];

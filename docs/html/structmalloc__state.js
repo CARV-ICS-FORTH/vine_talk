@@ -13,7 +13,7 @@ var structmalloc__state =
     [ "mutex", "structmalloc__state.html#a4acbeae7585569d61c3058b53034e429", null ],
     [ "release_checks", "structmalloc__state.html#a766f07a23bfc640d0ea9e0d4881c70d1", null ],
     [ "seg", "structmalloc__state.html#ac3d059568e5fdb458026c9116d593ba7", null ],
-    [ "smallbins", "structmalloc__state.html#a3bb0caf88c843de908e1c9f5abce088d", null ],
+    [ "smallbins", "structmalloc__state.html#ae965c680228aa17ecacec0a42161a896", null ],
     [ "smallmap", "structmalloc__state.html#ab56163a714e0775cc6fad5ad6fe1cafd", null ],
     [ "top", "structmalloc__state.html#ab3d2153aba94814a2c95ec60473349e1", null ],
     [ "topsize", "structmalloc__state.html#a4589d6dbc477b316b19d53681682a11b", null ],

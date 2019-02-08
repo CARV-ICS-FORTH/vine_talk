@@ -12,7 +12,8 @@ public class VineAccelerator extends VineObject
 		FPGA(4),      /**< Custom Fpga accelerator */
 		NANO_ARM(5),  /**< ARM accelerator core from NanoStream */
 		NANO_CORE(6), /**< NanoStreams FPGA accelerator */
-		VINE_ACCEL_TYPES(7); /** End Marker */
+		OPEN_CL(7),   /**< OpenCL accelerator */
+		VINE_ACCEL_TYPES(8); /** End Marker */
 		private final int value;
 
 		Type(int value)

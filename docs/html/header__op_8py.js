@@ -1,9 +1,8 @@
 var header__op_8py =
 [
-    [ "hashit", "header__op_8py.html#afc70ea3b882aac2d70435466b5bd2af6", null ],
-    [ "alias", "header__op_8py.html#a3723d2ff8486e014a37dbb9ec274a9e6", null ],
+    [ "hashit", "header__op_8py.html#a68b785bd6186125b61902258bc5a499d", null ],
+    [ "alias", "header__op_8py.html#a1921beb72c3824d136b19de810035e40", null ],
     [ "files", "header__op_8py.html#ae49a09f7c1e8876c2becb188c4c9d681", null ],
-    [ "line", "header__op_8py.html#a4fa05b1f00fcde100685cc887554b93b", null ],
-    [ "parts", "header__op_8py.html#a80b94ada1d2e356c96c19b189a47bea6", null ],
-    [ "recursive", "header__op_8py.html#a9d620918ee27181ded740ca71d15ae7b", null ]
+    [ "line", "header__op_8py.html#a6803fde102cb2572245449c322f2d7e6", null ],
+    [ "parts", "header__op_8py.html#a71e2fc54bb95b5e53f640347f1c888e4", null ]
 ];

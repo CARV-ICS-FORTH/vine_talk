@@ -1,6 +1,6 @@
 var src_2core_2vine__object_8c =
 [
-    [ "vine_object_dtor", "src_2core_2vine__object_8c.html#aff6a7099c4e9a3facbca946940e927dc", null ],
+    [ "vine_object_dtor", "src_2core_2vine__object_8c.html#a6bc8c2f411998d683eee36885a51a9e3", null ],
     [ "VINE_OBJ_DTOR_DECL", "src_2core_2vine__object_8c.html#a28eaea2f200ece48943c7e75faeda116", null ],
     [ "VINE_OBJ_DTOR_DECL", "src_2core_2vine__object_8c.html#a07eea06ddfffaea5144020eda3f21323", null ],
     [ "VINE_OBJ_DTOR_DECL", "src_2core_2vine__object_8c.html#afc9b49a1a3cb32e4f8cec5c1bc265cba", null ],

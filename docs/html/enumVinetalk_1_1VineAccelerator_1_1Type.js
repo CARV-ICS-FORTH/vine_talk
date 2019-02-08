@@ -9,5 +9,6 @@ var enumVinetalk_1_1VineAccelerator_1_1Type =
     [ "GPU_SOFT", "enumVinetalk_1_1VineAccelerator_1_1Type.html#a58042360d4542794acbc8ba06e0021ed", null ],
     [ "NANO_ARM", "enumVinetalk_1_1VineAccelerator_1_1Type.html#aaf046799bea573cb9a79857227deada8", null ],
     [ "NANO_CORE", "enumVinetalk_1_1VineAccelerator_1_1Type.html#a3d43fd9961465abf958850da6749d4ce", null ],
+    [ "OPEN_CL", "enumVinetalk_1_1VineAccelerator_1_1Type.html#a0276cf4ac655fbd4971d84a9d3727bb2", null ],
     [ "VINE_ACCEL_TYPES", "enumVinetalk_1_1VineAccelerator_1_1Type.html#ad309d1f3d7789ab7040f08db7783ac93", null ]
 ];
